@@ -1,4 +1,4 @@
-# masked-hashhop-api
+# Masked Hashhop
 
 Simple tools for the masked hashhop challenge. This challenge is addressed to AI sequence models. 
 The details of the challenge are explained at https://fractalbrain.ai/case-studies/genomics-sequence-modeling. 
